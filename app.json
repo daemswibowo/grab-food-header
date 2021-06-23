@@ -1,0 +1,12 @@
+{
+  "name": "grab-resto",
+  "displayName": "grab-resto",
+  "expo": {
+    "name": "grab-resto",
+    "slug": "grab-resto",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
