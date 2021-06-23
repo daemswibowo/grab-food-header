@@ -20,8 +20,6 @@ export default function App() {
     outputRange: [0, -1],
   });
 
-
-
   return (
     <>
       <StatusBar style="light"/>
